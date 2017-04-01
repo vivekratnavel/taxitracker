@@ -1,6 +1,6 @@
 {
   "buildCommand": "npm run build",
   "dist": {
-    "repo": "https://github.com/vivekratnavel/taxitrackerdist.git"
+    "repo": "https://github.com/vivekratnavel/taxitracker.git#dist"
   }
 }
