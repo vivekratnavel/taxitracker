@@ -1,13 +1,12 @@
 {
   "name": "taxiTracker",
   "description": "Tracks a single taxi on a single day from the 2013 data",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "dependencies": {
     "express": "latest",
     "polyline": "latest",
     "sqlite3": "latest"
-
   },
   "devDependencies": {
     "babel-preset-es2015": "^6.22.0",
