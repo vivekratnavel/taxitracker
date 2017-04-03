@@ -12,7 +12,7 @@ var db = new sqlite3.Database('db');
 
 var summary = [];
 
-
+var a = "yuy";
 var featureCollection = {
   type:"FeatureCollection",
   features:[]
